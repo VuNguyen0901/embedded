@@ -1,6 +1,7 @@
 #include <stdio.h>
+#include "printOut.h"
 
 int main(){
-    printf("hello\r\n");
+    printString();
     return 0;
 }
